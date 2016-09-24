@@ -1,4 +1,4 @@
 开源库(libevent,libv,webbench,redis)
 1)readme
 2)make--->make install
-3)/example   /sample   run:xxx-example  xxx-test
+3)./example   ./sample   run:xxx-example  xxx-test
